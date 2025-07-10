@@ -18,4 +18,8 @@ pip install -r requirements.txt
 
 pip install -r requirements.txt --force-reinstall
 
+# now we get the api key from pinecone website and also there we create index and select dimenstion, that dimension should be equal to our embedding model (we use embedding model from hugging face hub, there model dimensions are given in their descriptions. )
+
+# here we are using the following embedding model
+sentence-transformers/all-MiniLM-L6-v2   --> has dimension of 384
 
