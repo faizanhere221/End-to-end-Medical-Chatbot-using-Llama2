@@ -14,4 +14,8 @@ conda activate mchatbot
 
 pip install -r requirements.txt
 
+# to install again or to force reinstall in requirements.txt we can use the following command:
+
+pip install -r requirements.txt --force-reinstall
+
 
