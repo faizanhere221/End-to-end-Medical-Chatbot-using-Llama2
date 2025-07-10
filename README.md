@@ -10,3 +10,8 @@ conda create -n mchatbot python=3.10 -y
 
 conda activate mchatbot
 
+# to install the requirement, create a requirements.txt file and add all tha packages name here and install all the packages with the help of following commmand:
+
+pip install -r requirements.txt
+
+
