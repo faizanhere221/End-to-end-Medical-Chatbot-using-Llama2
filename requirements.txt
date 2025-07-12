@@ -1,9 +1,13 @@
-packaging==23.2
+
 ctransformers
-sentence-transformers==2.2.2
-pinecone-client==2.2.0
-langchain==0.0.260
+sentence-transformers
+pinecone-client==3.0.0
+pandas==2.0.3
+langchain
 langchain-community
-flask==2.2.2
+flask
 pinecone
+pypdf
+sentence-transformers
+langchain-pinecone
 
